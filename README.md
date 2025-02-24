@@ -1,6 +1,7 @@
 # analysez-des-indicateurs-de-l-egalite-femmes-hommes-en-respect-du-rgpd
 
-Vous êtes data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises. Le cabinet compte déjà plus de 150 salariés et est en plein développement. 
+Vous êtes data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises. 
+Le cabinet compte déjà plus de 150 salariés et est en plein développement. 
 
 
 Ce matin, en arrivant à votre poste de travail, vous recevez un email de Laura, la directrice des ressources humaines avec en copie Vincent, contrôleur de gestion sociale :
