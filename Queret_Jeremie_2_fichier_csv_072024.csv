@@ -1,0 +1,257 @@
+Service;Work_accident;Contrat;Salaire base mensuel;Augmentation;Promotion;Sexe;Congé maternité A-1;Tranche_age;Anciennete;Calcul_ETP;Salaire_annuel_ETP
+Marketing;Non;CDI;9999,3833;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;152390,6015
+Compta Finances;Non;CDI;9978,15;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;160448,652
+Marketing;Non;CDI;9940,2333;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;147910,6715
+RH;Non;CDI;9928,1;1;1;H;0;30 à 39 ans;Plus de 6 mois;1;151304,244
+Consultant;Non;CDI;9873,5;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;133884,66
+Commercial;Oui;CDI;9785,5333;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;150305,7915
+Consultant;Non;CDI;9782,5;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;161998,2
+Commercial;Oui;CDI;9777,95;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;122028,816
+Consultant;Non;CDI;9737;1;1;H;0;50 ans et plus;Plus de 6 mois;1;130865,28
+RH;Non;CDI;9642,9667;0;0;H;0;50 ans et plus;Plus de 6 mois;1;135387,2525
+RH;Oui;CDI;9635,3833;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;137593,2735
+Informatique;Non;CDI;9573,2;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;120622,32
+Commercial;Oui;CDI;9573,2;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;122919,888
+Commercial;Non;CDI;9555;1;0;F;0;30 à 39 ans;Plus de 6 mois;1;137592
+Commercial;Non;CDI;9497,3667;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;133343,0285
+Commercial;Non;CDI;9488,2667;1;1;H;0;50 ans et plus;Plus de 6 mois;1;157125,6966
+Consultant;Non;CDI;9447,3167;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;113367,8004
+Consultant;Non;CDI;9426,0833;1;0;F;0;50 ans et plus;Plus de 6 mois;1;140260,1195
+Consultant;Non;CDI;9400,3;1;0;H;0;50 ans et plus;Plus de 6 mois;1;116187,708
+Informatique;Non;CDI;9366,9333;1;1;F;0;40 à 49 ans;Plus de 6 mois;1;121395,4556
+Compta Finances;Non;CDI;9256,2167;1;0;F;0;50 ans et plus;Plus de 6 mois;1;112185,3464
+Marketing;Non;CDI;9218,3;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;115044,384
+Consultant;Non;CDI;9162,1833;1;0;F;0;50 ans et plus;Plus de 6 mois;1;128637,0535
+Informatique;Oui;CDI;9096,9667;0;0;H;0;50 ans et plus;Moins de 6 mois;1;132087,9565
+Commercial;Non;CDI;9069,6667;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;109924,3604
+RH;Non;CDI;9039,3333;1;1;H;0;Moins de 30 ans;Plus de 6 mois;1;130166,3995
+RH;Non;CDI;8860,8;1;0;F;0;40 à 49 ans;Plus de 6 mois;0,914285714;138394,62
+Commercial;Oui;CDI;8828,5167;0;1;F;0;30 à 39 ans;Plus de 6 mois;1;123952,3745
+RH;Non;CDI;8746,6167;0;1;F;0;30 à 39 ans;Moins de 6 mois;1;124901,6865
+Informatique;Non;CDI;8716,2833;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;125514,4795
+Commercial;Non;CDI;8714,7667;1;0;H;0;50 ans et plus;Plus de 6 mois;1;143270,7645
+Marketing;Non;CDI;8696,5667;1;0;H;0;50 ans et plus;Plus de 6 mois;1;139840,7925
+Compta Finances;Non;CDI;8696,5667;0;0;H;0;50 ans et plus;Plus de 6 mois;1;142971,5565
+Compta Finances;Non;CDI;8655,6167;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;130872,9245
+Commercial;Non;CDI;8629,8333;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;106664,7396
+RH;Non;CDI;8563,1;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;109950,204
+Informatique;Non;CDI;8458,45;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;102516,414
+Commercial;Oui;CDI;8428,1167;1;0;H;0;50 ans et plus;Plus de 6 mois;1;119342,1325
+Compta Finances;Non;CDI;8422,05;0;1;F;0;50 ans et plus;Plus de 6 mois;1;139469,148
+Commercial;Oui;CDI;8337,1167;0;1;H;0;30 à 39 ans;Plus de 6 mois;1;116052,6645
+Compta Finances;Non;CDI;8332,5667;0;0;F;0;30 à 39 ans;Moins de 6 mois;1;111989,6964
+Compta Finances;Non;CDI;8328,0167;1;0;F;0;30 à 39 ans;Plus de 6 mois;1;113927,2685
+RH;Non;CDI;8277,9667;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;109269,1604
+Compta Finances;Non;CDI;8218,8167;0;0;F;0;50 ans et plus;Plus de 6 mois;1;112433,4125
+Commercial;Oui;CDI;8126,3;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;132621,216
+RH;Non;CDI;8108,1;0;0;F;0;30 à 39 ans;Plus de 6 mois;1;134270,136
+Compta Finances;Non;CDI;8073,2167;1;1;H;0;40 à 49 ans;Plus de 6 mois;1;133692,4686
+Marketing;Non;CDI;8056,5333;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;110213,3755
+Compta Finances;Non;CDI;8056,5333;0;1;F;0;50 ans et plus;Plus de 6 mois;1;109246,5915
+Commercial;Non;CDI;7942,7833;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;131532,4914
+Commercial;Oui;CDI;7927,6167;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;125573,4485
+Compta Finances;Oui;CDI;7898,8;0;0;F;0;50 ans et plus;Plus de 6 mois;1;127960,56
+Compta Finances;Non;CDI;7889,7;0;0;F;0;30 à 39 ans;Plus de 6 mois;1;120239,028
+RH;Non;CDI;7877,5667;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;128561,8885
+Compta Finances;Non;CDI;7753,2;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;112576,464
+Commercial;Oui;CDI;7713,7667;1;0;H;0;50 ans et plus;Plus de 6 mois;1;113855,1965
+RH;Non;CDI;7710,7333;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;117511,5755
+RH;Non;CDI;7687,9833;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;100558,8216
+Consultant;Non;CDI;7672,8167;1;1;F;0;40 à 49 ans;Moins de 6 mois;1;126141,1065
+Informatique;Non;CDI;7654,6167;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;96448,17042
+RH;Non;CDI;7637,9333;1;0;F;0;50 ans et plus;Plus de 6 mois;1;110902,7915
+Marketing;Non;CDI;7637,9333;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;116402,1035
+Compta Finances;Non;CDI;7601,5333;1;1;F;0;40 à 49 ans;Plus de 6 mois;1;108549,8955
+Commercial;Non;CDI;7496,8833;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;95360,35558
+Compta Finances;Non;CDI;7377,0667;1;0;F;0;50 ans et plus;Plus de 6 mois;1;103574,0165
+Marketing;Non;CDI;7358,8667;1;0;H;0;Moins de 30 ans;Plus de 6 mois;0,8;144601,7307
+Consultant;Non;CDI;7308,8167;0;0;F;0;30 à 39 ans;Plus de 6 mois;1;98230,49645
+Consultant;Non;CDI;7304,2667;1;0;F;0;30 à 39 ans;Plus de 6 mois;1;102551,9045
+Consultant;Non;CDI;7269,08;1;1;H;0;40 à 49 ans;Plus de 6 mois;0,8;116668,734
+Marketing;Non;CDI;7264,8333;0;0;H;0;50 ans et plus;Plus de 6 mois;1;114203,1795
+RH;Non;CDI;7263,3167;1;1;H;0;50 ans et plus;Plus de 6 mois;1;113307,7405
+Compta Finances;Non;CDI;7185,9667;1;0;H;0;50 ans et plus;Moins de 6 mois;1;92267,81243
+Marketing;Non;CDI;7184,45;1;1;H;0;40 à 49 ans;Plus de 6 mois;1;118112,358
+Consultant;Non;CDI;7178,3833;1;0;H;0;30 à 39 ans;Plus de 6 mois;1;118874,0274
+RH;Non;CDI;7157,15;0;0;F;0;30 à 39 ans;Moins de 6 mois;1;88462,374
+RH;Oui;CDI;7148,05;1;0;F;1;30 à 39 ans;Plus de 6 mois;1;103789,686
+Commercial;Oui;CDI;7098;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;86027,76
+Informatique;Non;CDI;7081,3167;0;0;H;0;50 ans et plus;Plus de 6 mois;1;107069,5085
+Consultant;Non;CDI;6973,6333;0;1;H;0;50 ans et plus;Plus de 6 mois;1;109625,5155
+Commercial;Non;CDI;6902,35;0;1;F;0;30 à 39 ans;Plus de 6 mois;1;96908,994
+Marketing;Non;CDI;6842,16;1;0;H;0;50 ans et plus;Plus de 6 mois;0,685714286;144882,738
+Commercial;Oui;CDI;6838,65;1;0;F;1;30 à 39 ans;Moins de 6 mois;1;86166,99
+Commercial;Non;CDI;6818,9333;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;93283,00754
+Compta Finances;Non;CDI;6743,36;0;0;F;0;40 à 49 ans;Plus de 6 mois;0,914285714;92046,864
+Consultant;Oui;CDI;6591,4333;0;0;F;0;50 ans et plus;Plus de 6 mois;1;94125,66752
+Marketing;Non;CDI;6583,85;1;0;F;0;50 ans et plus;Plus de 6 mois;1;89277,006
+Informatique;Non;CDI;6526,2167;0;1;H;0;50 ans et plus;Plus de 6 mois;1;106507,8565
+Informatique;Oui;CDI;6494,3667;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;78711,7244
+Consultant;Non;CDI;6413,9833;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;95440,0715
+Consultant;Non;CDI;6409,4333;0;0;H;0;50 ans et plus;Plus de 6 mois;1;93064,97152
+Consultant;Non;CDI;6398,8167;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;85232,23844
+Informatique;Non;CDI;6356,35;1;0;F;0;30 à 39 ans;Moins de 6 mois;1;96108,012
+Consultant;Non;CDI;6301,75;0;0;F;0;50 ans et plus;Plus de 6 mois;1;101332,14
+Commercial;Non;CDI;6212,2667;1;0;F;0;40 à 49 ans;Moins de 6 mois;1;78274,56042
+Commercial;Non;CDI;6195,5833;0;1;H;0;40 à 49 ans;Plus de 6 mois;1;91446,80951
+Informatique;Non;CDI;6178,64;0;0;H;0;40 à 49 ans;Plus de 6 mois;0,685714286;126507,654
+RH;Non;CDI;6175,8667;0;0;H;0;Moins de 30 ans;Plus de 6 mois;1;102272,3526
+Commercial;Non;CDI;6163,7333;1;1;F;0;40 à 49 ans;Plus de 6 mois;1;85799,16754
+Compta Finances;Non;CDI;6127,3333;1;1;F;0;40 à 49 ans;Plus de 6 mois;1;73527,9996
+Commercial;Oui;CDI;6121,2667;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;96960,86453
+Consultant;Non;CDI;6043,9167;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;74702,81041
+Commercial;Oui;CDI;6031,7833;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;100610,1454
+Marketing;Oui;CDI;6002,9667;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;73476,31241
+Commercial;Non;CDI;5984,7667;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;76126,23242
+Marketing;Non;CDI;5951,92;1;0;F;0;50 ans et plus;Plus de 6 mois;0,685714286;137489,352
+Commercial;Non;CDI;5949,8833;1;0;H;0;30 à 39 ans;Plus de 6 mois;1;83536,36153
+Marketing;Non;CDI;5930,1667;0;0;H;0;40 à 49 ans;Moins de 6 mois;1;94645,46053
+Commercial;Non;CDI;5895,76;1;0;F;0;50 ans et plus;Plus de 6 mois;0,685714286;126906,234
+Consultant;Non;CDI;5810,35;1;0;H;0;30 à 39 ans;Moins de 6 mois;1;94824,912
+Commercial;Non;CDI;5805,8;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;95447,352
+Commercial;Non;CDI;5749,6833;0;0;H;0;50 ans et plus;Plus de 6 mois;1;80725,55353
+Consultant;Non;CDI;5739,0667;1;1;F;0;50 ans et plus;Plus de 6 mois;1;73000,92842
+Compta Finances;Non;CDI;5724,16;1;0;H;0;30 à 39 ans;Plus de 6 mois;0,685714286;115198,72
+Consultant;Non;CDI;5585,8833;1;0;F;0;Moins de 30 ans;Plus de 6 mois;1;78425,80153
+Commercial;Oui;CDI;5581,3333;1;1;F;0;30 à 39 ans;Plus de 6 mois;1;80371,19952
+RH;Non;CDI;5522,1833;1;0;F;0;50 ans et plus;Moins de 6 mois;1;72230,15756
+Marketing;Non;CDI;5517,6333;1;1;H;0;40 à 49 ans;Plus de 6 mois;1;81440,26751
+Commercial;Non;CDI;5464,55;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;87869,964
+Marketing;Non;CDI;5462,08;0;0;H;0;30 à 39 ans;Plus de 6 mois;0,685714286;132865,096
+Consultant;Non;CDI;5455,45;0;0;H;0;50 ans et plus;Plus de 6 mois;1;70047,978
+Consultant;Non;CDI;5448,56;0;0;H;0;50 ans et plus;Plus de 6 mois;0,685714286;123954,74
+Consultant;Non;CDI;5388,7167;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;84063,98052
+RH;Non;CDI;5359,9;1;0;H;0;50 ans et plus;Plus de 6 mois;1;66891,552
+RH;Non;CDI;5293,1667;0;0;F;0;50 ans et plus;Plus de 6 mois;1;88290,02056
+Informatique;Non;CDI;5212,7833;0;0;H;0;50 ans et plus;Moins de 6 mois;1;69434,27356
+RH;Non;CDI;5106,6167;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;67407,34044
+Consultant;Non;CDI;5097,2133;1;0;H;0;40 à 49 ans;Plus de 6 mois;0,8;84104,01945
+Commercial;Non;CDI;5092,9667;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;67838,31644
+RH;Non;CDI;5076,2833;0;0;F;0;50 ans et plus;Moins de 6 mois;1;81017,48147
+RH;Non;CDI;5067,1833;1;0;F;0;50 ans et plus;Plus de 6 mois;1;84520,61744
+RH;Non;CDI;5056,5667;1;0;F;1;30 à 39 ans;Plus de 6 mois;1;75241,7125
+RH;Non;CDI;5035,3333;0;0;H;0;50 ans et plus;Plus de 6 mois;1;74925,7595
+Compta Finances;Non;CDI;4988,3167;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;64648,58443
+Commercial;Oui;CDI;4974,32;0;0;F;0;50 ans et plus;Plus de 6 mois;0,685714286;114906,792
+Commercial;Non;CDI;4882,8;1;0;F;0;50 ans et plus;Plus de 6 mois;0,685714286;99975,33
+RH;Non;CDI;4851,6;0;0;F;0;30 à 39 ans;Plus de 6 mois;0,685714286;96789,42
+Consultant;Non;CDI;4795,44;0;1;H;0;30 à 39 ans;Moins de 6 mois;0,685714286;99865,038
+Marketing;Non;CDI;4763,85;1;0;F;0;30 à 39 ans;Plus de 6 mois;1;61167,834
+Consultant;Non;CDI;4712,2833;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;71249,7235
+Informatique;Oui;CDI;4663,75;0;0;F;0;50 ans et plus;Plus de 6 mois;1;58763,25
+Marketing;Non;CDI;4624,3167;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;63815,57046
+Marketing;Oui;CDI;4563,65;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;75574,044
+Consultant;Non;CDI;4516,6333;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;72627,46346
+RH;Non;CDI;4499,95;1;0;H;0;50 ans et plus;Moins de 6 mois;1;65879,268
+Consultant;Non;CDI;4449,9;1;0;H;0;50 ans et plus;Moins de 6 mois;1;71020,404
+Marketing;Non;CDI;4424,1167;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;69016,22052
+Compta Finances;Non;CDI;4421,0833;1;1;H;0;50 ans et plus;Plus de 6 mois;1;56236,17958
+Consultant;Non;CDI;4296,7167;0;0;H;0;50 ans et plus;Plus de 6 mois;1;71669,23456
+Consultant;Non;CDI;4289,1333;0;1;F;0;50 ans et plus;Plus de 6 mois;1;57645,95155
+Consultant;Non;CDI;4281,55;1;0;H;0;30 à 39 ans;Plus de 6 mois;1;58057,818
+Compta Finances;Non;CDI;4263,35;0;0;H;0;50 ans et plus;Plus de 6 mois;1;67019,862
+Compta Finances;Non;CDI;4204,2;1;0;F;0;50 ans et plus;Plus de 6 mois;1;70126,056
+Compta Finances;Non;CDI;4198,1333;1;0;F;0;30 à 39 ans;Moins de 6 mois;1;67505,98346
+Informatique;Non;CDI;4165,2;0;0;H;0;50 ans et plus;Plus de 6 mois;0,685714286;81637,92
+Commercial;Oui;CDI;4152,6333;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;53319,81157
+Consultant;Non;CDI;4134,4333;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;60528,10351
+RH;Non;CDI;4117,36;1;0;F;0;50 ans et plus;Plus de 6 mois;0,685714286;77818,104
+Marketing;Non;CDI;4082,8667;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;62712,83251
+Marketing;Non;CDI;4022,2;0;0;H;0;50 ans et plus;Plus de 6 mois;1;55023,696
+Compta Finances;Non;CDI;4013,1;0;0;F;0;30 à 39 ans;Plus de 6 mois;1;53936,064
+Consultant;Non;CDI;4000,9667;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;67216,24056
+Consultant;Non;CDI;3891,7667;0;0;H;0;50 ans et plus;Plus de 6 mois;1;61645,58453
+RH;Non;CDI;3882,6667;0;1;H;0;30 à 39 ans;Plus de 6 mois;1;47057,9204
+Compta Finances;Non;CDI;3853,2;1;1;F;0;50 ans et plus;Plus de 6 mois;0,685714286;73499,79
+RH;Non;CDI;3835,65;0;0;F;0;50 ans et plus;Plus de 6 mois;1;57995,028
+RH;Non;CDI;3803,8;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;59339,28
+Commercial;Non;CDI;3800,7667;1;1;F;0;50 ans et plus;Plus de 6 mois;1;49714,02844
+RH;Non;CDI;3797,7333;0;0;F;0;50 ans et plus;Plus de 6 mois;1;56510,2715
+RH;Oui;CDI;3705,2167;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;57356,75452
+Marketing;Non;CDD;3693,0833;0;0;H;0;30 à 39 ans;Moins de 6 mois;1;54953,0795
+Commercial;Non;CDI;3677,9167;0;1;H;0;30 à 39 ans;Plus de 6 mois;1;58699,55053
+Marketing;Non;CDI;3655,1667;0;0;H;0;50 ans et plus;Plus de 6 mois;1;58336,46053
+Marketing;Non;CDD;3640;0;0;F;0;40 à 49 ans;Moins de 6 mois;1;46300,8
+Marketing;Non;CDI;3597,5333;1;0;F;0;30 à 39 ans;Plus de 6 mois;1;56984,92747
+Marketing;Non;CDI;3582,3667;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;55884,92052
+Consultant;Non;CDI;3547,4833;1;0;F;1;Moins de 30 ans;Plus de 6 mois;1;59172,02144
+RH;Non;CDI;3508,05;0;1;H;0;40 à 49 ans;Plus de 6 mois;1;46727,226
+RH;Non;CDI;3486,8167;0;0;H;0;30 à 39 ans;Moins de 6 mois;1;49791,74248
+Marketing;Oui;CDI;3462,55;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;42797,118
+Consultant;Non;CDI;3459,5167;0;0;F;0;50 ans et plus;Plus de 6 mois;1;53968,46052
+Compta Finances;Non;CDI;3436,7667;1;0;H;0;30 à 39 ans;Plus de 6 mois;1;52376,32451
+Compta Finances;Non;CDI;3383,6833;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;49943,16551
+RH;Non;CDI;3335,15;1;0;H;0;50 ans et plus;Plus de 6 mois;1;51227,904
+Commercial;Non;CDI;3260,8333;1;0;F;0;30 à 39 ans;Plus de 6 mois;1;50868,99948
+Marketing;Non;CDI;3256,2833;0;0;F;0;50 ans et plus;Plus de 6 mois;1;52361,03546
+Consultant;Non;CDI;3232,0167;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;52358,67054
+RH;Non;CDI;3218,3667;1;0;F;0;50 ans et plus;Plus de 6 mois;1;49047,90851
+Compta Finances;Non;CDD;3201,6833;;0;F;0;Moins de 30 ans;Moins de 6 mois;1;53019,87545
+Commercial;Non;CDD;3185;0;0;F;0;40 à 49 ans;Moins de 6 mois;1;39366,6
+Consultant;Non;CDD;3168,3167;0;0;F;0;40 à 49 ans;Moins de 6 mois;1;41821,78044
+Commercial;Oui;CDI;3165,2833;0;0;F;0;50 ans et plus;Plus de 6 mois;1;37983,3996
+RH;Non;CDI;3116,88;0;0;F;0;50 ans et plus;Plus de 6 mois;0,685714286;74727,198
+Consultant;Non;CDI;3097,0333;0;0;F;0;50 ans et plus;Plus de 6 mois;1;41995,77155
+RH;Non;CDI;3060,72;0;0;F;0;50 ans et plus;Plus de 6 mois;0,685714286;56776,356
+Consultant;Non;CDD;3033,3333;0;0;F;0;50 ans et plus;Moins de 6 mois;1;39311,99957
+RH;Non;CDI;3012,1;1;0;F;0;50 ans et plus;Plus de 6 mois;1;43012,788
+Marketing;Non;CDI;2998,45;1;0;H;0;Moins de 30 ans;Plus de 6 mois;1;43537,494
+Commercial;Oui;CDI;2928,6833;1;1;F;0;50 ans et plus;Moins de 6 mois;1;46741,78547
+Consultant;Non;CDI;2918,0667;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;48673,35256
+Commercial;Non;CDI;2916,55;1;0;F;0;30 à 39 ans;Plus de 6 mois;1;47248,11
+Marketing;Non;CDI;2912;0;1;F;0;50 ans et plus;Moins de 6 mois;1;47174,4
+Commercial;Non;CDD;2881,6667;0;0;F;0;50 ans et plus;Moins de 6 mois;1;43916,60051
+Informatique;Oui;CDD;2848,3;1;0;H;0;30 à 39 ans;Moins de 6 mois;1;39306,54
+Consultant;Non;CDI;2843,75;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;34807,5
+Consultant;Non;CDI;2834,65;1;0;H;0;50 ans et plus;Plus de 6 mois;1;39118,17
+Commercial;Non;CDI;2828,5833;0;0;H;0;50 ans et plus;Plus de 6 mois;1;41071,02952
+Consultant;Non;CDI;2813,72;1;0;H;0;50 ans et plus;Plus de 6 mois;0,8;45582,264
+Consultant;Non;CDI;2777,0167;1;0;H;0;50 ans et plus;Plus de 6 mois;1;36656,62044
+Compta Finances;Oui;CDI;2769,4333;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;44200,15547
+RH;Non;CDI;2767,9167;1;0;H;0;50 ans et plus;Plus de 6 mois;1;35207,90042
+RH;Non;CDI;2735,2;0;0;H;0;50 ans et plus;Plus de 6 mois;0,685714286;60789,82
+Consultant;Non;CDI;2731,5167;1;0;F;0;40 à 49 ans;Plus de 6 mois;1;34089,32842
+Consultant;Non;CDI;2675,4;1;0;H;0;50 ans et plus;Moins de 6 mois;1;38525,76
+Compta Finances;Non;CDI;2604,1167;1;0;H;0;50 ans et plus;Plus de 6 mois;1;41249,20853
+Consultant;Non;CDI;2561,65;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;34735,974
+Consultant;Oui;CDD;2558,6167;0;0;H;0;30 à 39 ans;Moins de 6 mois;1;37458,14849
+Commercial;Oui;CDI;2511,6;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;36468,432
+RH;Non;CDI;2507,44;1;1;F;0;40 à 49 ans;Plus de 6 mois;0,685714286;51778,636
+Consultant;Oui;CDD;2496;0;0;F;0;40 à 49 ans;Moins de 6 mois;0,914285714;39639,6
+Marketing;Oui;CDD;2426,6667;0;0;F;0;40 à 49 ans;Moins de 6 mois;1;35235,20048
+Commercial;Oui;CDI;2396,3333;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;31919,15956
+Commercial;Non;CDI;2369,0333;0;0;F;0;30 à 39 ans;Plus de 6 mois;1;34114,07952
+Consultant;Non;CDD;2357,3333;0;0;H;0;50 ans et plus;Moins de 6 mois;0,914285714;34652,79951
+Commercial;Non;CDI;2309,8833;0;0;F;0;50 ans et plus;Plus de 6 mois;1;34093,87751
+Consultant;Non;CDD;2226,4667;0;0;F;0;30 à 39 ans;Moins de 6 mois;1;27251,95241
+Consultant;Non;CDI;2132,4333;1;1;F;0;40 à 49 ans;Moins de 6 mois;1;30195,25553
+Compta Finances;Non;CDD;2123,3333;0;0;F;0;50 ans et plus;Moins de 6 mois;1;35417,19944
+Compta Finances;Oui;CDI;2079,35;1;1;F;0;40 à 49 ans;Plus de 6 mois;1;26698,854
+Consultant;Non;CDI;2073,2833;0;0;F;0;40 à 49 ans;Plus de 6 mois;1;31845,63149
+Commercial;Non;CDI;2070,25;0;0;F;0;50 ans et plus;Moins de 6 mois;1;33289,62
+Consultant;Non;CDI;2070,25;1;0;F;1;Moins de 30 ans;Plus de 6 mois;1;30805,32
+Consultant;Non;CDI;2055,04;0;0;H;0;50 ans et plus;Plus de 6 mois;0,685714286;40278,784
+Compta Finances;Non;CDI;2052,05;;0;F;0;Moins de 30 ans;Moins de 6 mois;1;27825,798
+Consultant;Non;CDI;2027,7833;0;0;F;0;30 à 39 ans;Plus de 6 mois;1;28956,74552
+Consultant;Non;CDI;2024,75;1;0;H;0;40 à 49 ans;Plus de 6 mois;1;25268,88
+Compta Finances;Non;CDI;2008,0667;1;0;F;1;Moins de 30 ans;Moins de 6 mois;1;32530,68054
+Marketing;Non;CDD;1989,8667;0;0;H;0;30 à 39 ans;Moins de 6 mois;1;25072,32042
+Compta Finances;Non;CDI;1979,25;1;0;H;0;40 à 49 ans;Moins de 6 mois;1;25176,06
+Compta Finances;Non;CDD;1920,1;1;0;F;1;30 à 39 ans;Moins de 6 mois;1;26958,204
+Consultant;Non;CDI;1873,0833;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;28545,78949
+Marketing;Non;CDI;1863,9833;1;0;F;1;30 à 39 ans;Moins de 6 mois;1;25051,93555
+Consultant;Non;CDI;1851,5467;0;0;H;0;40 à 49 ans;Plus de 6 mois;0,8;33050,1086
+Compta Finances;Non;CDI;1835,1667;0;0;H;0;30 à 39 ans;Plus de 6 mois;1;23343,32042
+Compta Finances;Non;CDI;1833,65;0;1;H;0;50 ans et plus;Plus de 6 mois;1;23764,104
+Consultant;Non;CDI;1803,3167;1;0;H;0;30 à 39 ans;Moins de 6 mois;1;23370,98443
+Consultant;Non;CDI;1774,5;1;0;F;0;40 à 49 ans;Moins de 6 mois;1;24701,04
+Compta Finances;Non;CDI;1772,9833;1;1;H;0;50 ans et plus;Plus de 6 mois;1;25530,95952
+Consultant;Non;CDI;1709,76;1;1;H;0;50 ans et plus;Plus de 6 mois;0,685714286;32912,88
+Consultant;Non;CDI;1703,2167;1;0;F;0;40 à 49 ans;Moins de 6 mois;1;28409,65456
+Consultant;Non;CDI;1697,15;1;0;H;0;50 ans et plus;Plus de 6 mois;1;23827,986
+Marketing;Non;CDI;1669,85;1;0;H;0;Moins de 30 ans;Plus de 6 mois;1;24446,604
+Consultant;Non;CDI;1651,65;0;0;H;0;40 à 49 ans;Plus de 6 mois;1;23387,364
+Marketing;Non;CDI;1598,5667;0;1;F;0;30 à 39 ans;Plus de 6 mois;1;22635,70447
+Commercial;Non;CDI;1590,9833;1;1;H;0;40 à 49 ans;Plus de 6 mois;1;24819,33948
+Consultant;Non;CDI;1110,72;1;0;H;0;50 ans et plus;Plus de 6 mois;0,685714286;22158,864
+Compta Finances;Non;CDI;1059,76;0;1;F;0;30 à 39 ans;Plus de 6 mois;0,685714286;18731,258
