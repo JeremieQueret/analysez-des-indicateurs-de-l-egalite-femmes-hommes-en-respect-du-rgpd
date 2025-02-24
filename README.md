@@ -10,5 +10,5 @@ Comme tu le sais, chaque année avant le 1er mars, les entreprises d’au moins 
 
 J’aimerais donc que tu aides Vincent à automatiser la création d’un rapport sur l’égalité professionnelle femmes hommes. Pour cela, il m’a suggéré l’utilisation de KNIME. J’aurais donc besoin qu'à partir des fichiers (en pièce jointe) issues de notre Système d’Informations des Ressources Humaines (SIRH), tu lui prépares :
 
-un workflow avec le logiciel KNIME qui crée les graphiques du diagnostic ;
-un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
+- un workflow avec le logiciel KNIME qui crée les graphiques du diagnostic ;
+- un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
